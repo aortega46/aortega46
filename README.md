@@ -54,5 +54,37 @@
         </p>
       </div>
     </td>
+    <td width="50%">
+      <h3 align="center">Chat</h3>
+      <div align="center">
+        <a href="https://legendary-wisp-ef548c.netlify.app/" target="_blank"
+          ><img
+            src="https://imgur.com/64dQBog.png"
+            width="400"
+            alt="Chat"
+        /></a>
+        <p>
+          <a
+            href="https://github.com/aortega46/frontend-chat"
+            target="_blank"
+          >
+            <img
+              src="https://img.shields.io/badge/FRONTEND-ff9?style=for-the-badge&logo=github&logoColor=black"
+            />
+          </a>
+          <a
+            href="https://github.com/aortega46/backend-socket-chat"
+            target="_blank"
+          >
+            <img
+              src="https://img.shields.io/badge/BACKEND-ff9?style=for-the-badge&logo=github&logoColor=black"
+            />
+          </a>
+        </p>
+        <p>
+          A chat using Angular, TailwindCSS, NestJS and Socket.IO.
+        </p>
+      </div>
+    </td>
   </tr>
 </table>
