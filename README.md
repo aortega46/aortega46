@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/NestJS-0f0f11?style=for-the-badge&logo=nestjs&logoColor=red">
   <img src="https://img.shields.io/badge/MongoDB-022a26?style=for-the-badge&logo=mongodb&logoColor=green">
   <img src="https://img.shields.io/badge/MySQL-0f0f11?style=for-the-badge&logo=mysql&logoColor=yellow">
+  <img src="https://img.shields.io/badge/Flutter-60c9f8?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
@@ -88,3 +89,7 @@
     </td>
   </tr>
 </table>
+
+<div>
+  You can see my other projects in my repositories or on <a href="https://albertortega.netlify.app">albertortega.netlify.app</a>
+</div>
