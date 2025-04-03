@@ -33,7 +33,7 @@
     <td width="50%">
       <h3 align="center">My Unsplash</h3>
       <div align="center">
-        <a href="https://meek-florentine-a3f417.netlify.app/#/" target="_blank"
+        <a href="#" target="_blank"
           ><img
             src="https://i.imgur.com/8AjuFAD.png"
             width="400"
@@ -58,7 +58,7 @@
     <td width="50%">
       <h3 align="center">Chat</h3>
       <div align="center">
-        <a href="https://legendary-wisp-ef548c.netlify.app/" target="_blank"
+        <a href="#" target="_blank"
           ><img
             src="https://imgur.com/64dQBog.png"
             width="400"
